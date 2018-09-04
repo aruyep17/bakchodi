@@ -1,2 +1,2 @@
 # bakchodi
-i nam bhave
+i nam not bhave
